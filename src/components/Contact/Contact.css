@@ -1,0 +1,13 @@
+.contact {
+    text-align: center;
+    float: center;
+}
+
+a {
+    color: black !important;
+}
+
+a:hover {
+    color: gray !important;
+}
+
